@@ -82,7 +82,6 @@ function App() {
 
     return (
         <div className="App">
-
           <h1>Bingo</h1>
           <div className="wrapper">
             {Object.keys(data).map(id => (
@@ -94,15 +93,9 @@ function App() {
                   {data[id]}
                 </Tile>
             ))}
-
-
           </div>
-
           {state.won ? <Confetti/> : null}
-
-
         </div>
-
     );
   }
 
