@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -62,7 +63,7 @@ h1 {
   font-weight: bold;
   font-size: 20px;
 
-  border: 4px saddlebrown dashed;
+  border: 4px #4670cf dashed;
   border-radius: 10px;
 
   cursor: pointer;
@@ -86,3 +87,5 @@ canvas {
 
   pointer-events: none;
 }
+
+
