@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//ghassenmedyouni.github.io/bingo_sensory/static/css/main.48c1f613.css",
+    "main.js": "//ghassenmedyouni.github.io/bingo_sensory/static/js/main.75772ec6.js",
+    "static/js/787.fcba53b6.chunk.js": "//ghassenmedyouni.github.io/bingo_sensory/static/js/787.fcba53b6.chunk.js",
+    "index.html": "//ghassenmedyouni.github.io/bingo_sensory/index.html",
+    "main.48c1f613.css.map": "//ghassenmedyouni.github.io/bingo_sensory/static/css/main.48c1f613.css.map",
+    "main.75772ec6.js.map": "//ghassenmedyouni.github.io/bingo_sensory/static/js/main.75772ec6.js.map",
+    "787.fcba53b6.chunk.js.map": "//ghassenmedyouni.github.io/bingo_sensory/static/js/787.fcba53b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48c1f613.css",
+    "static/js/main.75772ec6.js"
+  ]
+}
